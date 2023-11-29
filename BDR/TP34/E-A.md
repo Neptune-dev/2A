@@ -1,0 +1,21 @@
+- université
+- étudiant
+    - FISA ou FISE ?
+    - année
+- formation
+    - stage obligatoire ?
+    - durée minimale de stage
+    - durée maximale de stage
+    - date de soutenance
+- institut
+- stage
+    - sujet
+    - durée
+    - rémunéré ? (oui si durée > 2 mois)
+- responsable universitaire
+- enseignant
+- responsable industriel
+- entreprise
+- proposition de stage
+    - formation concernée
+- convention (entre étudiant, entreprise, université)
